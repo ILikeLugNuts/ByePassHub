@@ -1,9 +1,9 @@
 ## ByePassHub | Main Hub
-## If you like this collection, make sure to star it! - 170 stars!
+## If you like this collection, make sure to star it! - 200 stars!
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 Updates every week, if not daily
 
-**1450+ Unblockers (Proxies) with Games, AI, and Apps:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
+**1750+ Unblockers (Proxies) with Games, AI, and Apps:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
 **400+ Games and Game Hubs (Selenite, Phantom Games, Roblox, Minecraft, etc.):** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br><br>
 **90+ Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits/README.md) <br><br>
 **15+ Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br> <br>
@@ -25,4 +25,5 @@ These links and bypasses are **not made by me**, they are found through many oth
 **If you use any of these links for your OWN list, I would appreciate if you made sure to credit me and the repository. I spend too much time on this lol** <br>
 **Credits are in the individual files** <br> <br>
 **I am not responsbile for any problems that arise associated with this repository. It's your device and you control your own decisions. Links/exploits are not guranteed to be fully safe and not malicious** <br>
-**This repository is also licensed under the MIT license, check the LICENSE file for more information.** 
+**This repository is also licensed under the MIT license, check the LICENSE file for more information.**  <br> <br>
+**Also note to proxy developers: if you believe that I leaked your links, make an issue and I'll take them down asap, I have no intention in leaking private links.**
